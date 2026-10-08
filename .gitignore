@@ -1,0 +1,3 @@
+.assetenv/
+node_modules/
+*.log
